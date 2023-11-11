@@ -1,0 +1,11 @@
+.container-1{
+    background-image: url(https://www.netwitness.com/wp-content/uploads/nw-cover.webp);
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    margin: 0;
+    border: 0;
+    padding-left: 50px;
+}
+.nav{
+    padding: 20px;
+}
